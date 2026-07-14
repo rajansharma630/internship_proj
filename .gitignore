@@ -1,0 +1,37 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Environment variables
+.env
+.env.*
+
+# Secrets
+secrets.json
+credentials.json
+config.json
+
+# Logs
+*.log
+
+# Output files
+outputs/
+reports/
+
+# OS files
+.DS_Store
+Thumbs.db
